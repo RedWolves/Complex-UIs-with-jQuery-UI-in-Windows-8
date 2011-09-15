@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{2876e74e-86d4-4518-95cf-d94a0140e6bf}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\4.0\Microsoft.VisualStudioVersion.v11.Common.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.props" />
+  <PropertyGroup>
+    <DefaultLanguage>en-US</DefaultLanguage>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest" />
+    <Content Include="css\default.css" />
+    <Content Include="css\homePage.css" />
+    <Content Include="css\layout.css" />
+    <Content Include="css\reset.css" />
+    <Content Include="css\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_flat_10_000000_40x100.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <Content Include="css\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <Content Include="css\ui-lightness\images\ui-icons_222222_256x240.png" />
+    <Content Include="css\ui-lightness\images\ui-icons_228ef1_256x240.png" />
+    <Content Include="css\ui-lightness\images\ui-icons_ef8c08_256x240.png" />
+    <Content Include="css\ui-lightness\images\ui-icons_ffd27a_256x240.png" />
+    <Content Include="css\ui-lightness\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="css\ui-lightness\jquery-ui.css" />
+    <Content Include="css\ui-lightness\jquery.ui.accordion.css" />
+    <Content Include="css\ui-lightness\jquery.ui.all.css" />
+    <Content Include="css\ui-lightness\jquery.ui.autocomplete.css" />
+    <Content Include="css\ui-lightness\jquery.ui.base.css" />
+    <Content Include="css\ui-lightness\jquery.ui.button.css" />
+    <Content Include="css\ui-lightness\jquery.ui.core.css" />
+    <Content Include="css\ui-lightness\jquery.ui.datepicker.css" />
+    <Content Include="css\ui-lightness\jquery.ui.dialog.css" />
+    <Content Include="css\ui-lightness\jquery.ui.progressbar.css" />
+    <Content Include="css\ui-lightness\jquery.ui.resizable.css" />
+    <Content Include="css\ui-lightness\jquery.ui.selectable.css" />
+    <Content Include="css\ui-lightness\jquery.ui.slider.css" />
+    <Content Include="css\ui-lightness\jquery.ui.tabs.css" />
+    <Content Include="css\ui-lightness\jquery.ui.theme.css" />
+    <Content Include="default.html" />
+    <Content Include="html\homePage.html" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\widelogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="js\jquery-1.6.4.js" />
+    <Content Include="js\jquery-ui.js" />
+    <Content Include="js\jquery.tmpl.min.js" />
+    <Content Include="js\todo.js" />
+    <Content Include="winjs\Css\ui-dark.css" />
+    <Content Include="winjs\Css\ui-light.css" />
+    <Content Include="winjs\js\animations.js" />
+    <Content Include="winjs\js\base.js" />
+    <Content Include="winjs\js\binding.js" />
+    <Content Include="winjs\js\controls.js" />
+    <Content Include="winjs\js\res.js" />
+    <Content Include="winjs\js\ui.js" />
+    <Content Include="winjs\js\uicollections.js" />
+    <Content Include="winjs\js\wwaapp.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\homePage.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\WWAProject\Microsoft.VisualStudio.WWAProject.targets" />
+</Project>

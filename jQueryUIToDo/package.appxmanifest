@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="7989403d-a7c0-492a-b4d1-f5455906e7c8" Version="1.0.0.0" Publisher="CN=ralph" />
+  <Properties>
+    <DisplayName>jQueryUIToDo</DisplayName>
+    <Description>jQueryUIToDo</Description>
+    <PublisherDisplayName>ralph</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="jQuery UI To Do" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="A simple To Do app built with jQuery UI" ForegroundText="light" BackgroundColor="#0084FF" InitialRotationPreference="portrait">
+        <DefaultTile ShowName="true" WideLogo="images\widelogo.png" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#222222" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

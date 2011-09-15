@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RALPH-WINDOWS8</Machine>
+    <WindowsUser>ralph</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-09-14T21:22:10.113</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2011-09-14T21:37:01.052</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\homePage.css">
+      <PackagePath>css\homePage.css</PackagePath>
+      <Modified>2011-09-14T20:07:50.434</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\layout.css">
+      <PackagePath>css\layout.css</PackagePath>
+      <Modified>2011-09-14T21:19:35.772</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png">
+      <PackagePath>css\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.171</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_flat_55_fbec88_40x100.png">
+      <PackagePath>css\redmond\images\ui-bg_flat_55_fbec88_40x100.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.186</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png">
+      <PackagePath>css\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.201</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_glass_85_dfeffc_1x400.png">
+      <PackagePath>css\redmond\images\ui-bg_glass_85_dfeffc_1x400.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.217</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_glass_95_fef1ec_1x400.png">
+      <PackagePath>css\redmond\images\ui-bg_glass_95_fef1ec_1x400.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.217</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png">
+      <PackagePath>css\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.234</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png">
+      <PackagePath>css\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.248</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png">
+      <PackagePath>css\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.264</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_217bc0_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_217bc0_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.279</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_2e83ff_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_2e83ff_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.279</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_469bdd_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_469bdd_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.295</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_6da8d5_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_6da8d5_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.311</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_cd0a0a_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_cd0a0a_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.326</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_d8e7f3_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_d8e7f3_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.342</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\images\ui-icons_f9bd01_256x240.png">
+      <PackagePath>css\redmond\images\ui-icons_f9bd01_256x240.png</PackagePath>
+      <Modified>2011-09-14T20:19:47.342</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery-ui.css">
+      <PackagePath>css\redmond\jquery-ui.css</PackagePath>
+      <Modified>2011-09-14T20:19:46.904</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.accordion.css">
+      <PackagePath>css\redmond\jquery.ui.accordion.css</PackagePath>
+      <Modified>2011-09-14T20:19:46.936</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.all.css">
+      <PackagePath>css\redmond\jquery.ui.all.css</PackagePath>
+      <Modified>2011-09-14T20:19:46.951</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.autocomplete.css">
+      <PackagePath>css\redmond\jquery.ui.autocomplete.css</PackagePath>
+      <Modified>2011-09-14T20:19:46.967</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.base.css">
+      <PackagePath>css\redmond\jquery.ui.base.css</PackagePath>
+      <Modified>2011-09-14T20:19:46.998</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.button.css">
+      <PackagePath>css\redmond\jquery.ui.button.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.029</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.core.css">
+      <PackagePath>css\redmond\jquery.ui.core.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.045</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.datepicker.css">
+      <PackagePath>css\redmond\jquery.ui.datepicker.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.061</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.dialog.css">
+      <PackagePath>css\redmond\jquery.ui.dialog.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.076</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.progressbar.css">
+      <PackagePath>css\redmond\jquery.ui.progressbar.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.092</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.resizable.css">
+      <PackagePath>css\redmond\jquery.ui.resizable.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.107</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.selectable.css">
+      <PackagePath>css\redmond\jquery.ui.selectable.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.107</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.slider.css">
+      <PackagePath>css\redmond\jquery.ui.slider.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.123</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.tabs.css">
+      <PackagePath>css\redmond\jquery.ui.tabs.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.139</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\redmond\jquery.ui.theme.css">
+      <PackagePath>css\redmond\jquery.ui.theme.css</PackagePath>
+      <Modified>2011-09-14T20:19:47.154</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\reset.css">
+      <PackagePath>css\reset.css</PackagePath>
+      <Modified>2011-09-14T20:28:57.479</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.683</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.699</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_flat_10_000000_40x100.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_flat_10_000000_40x100.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.715</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.715</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.730</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.746</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.762</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.777</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <PackagePath>css\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.793</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-icons_222222_256x240.png">
+      <PackagePath>css\ui-lightness\images\ui-icons_222222_256x240.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.809</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-icons_228ef1_256x240.png">
+      <PackagePath>css\ui-lightness\images\ui-icons_228ef1_256x240.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.825</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-icons_ef8c08_256x240.png">
+      <PackagePath>css\ui-lightness\images\ui-icons_ef8c08_256x240.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.840</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-icons_ffd27a_256x240.png">
+      <PackagePath>css\ui-lightness\images\ui-icons_ffd27a_256x240.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.855</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\images\ui-icons_ffffff_256x240.png">
+      <PackagePath>css\ui-lightness\images\ui-icons_ffffff_256x240.png</PackagePath>
+      <Modified>2011-09-14T21:21:02.887</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery-ui.css">
+      <PackagePath>css\ui-lightness\jquery-ui.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.387</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.accordion.css">
+      <PackagePath>css\ui-lightness\jquery.ui.accordion.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.402</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.all.css">
+      <PackagePath>css\ui-lightness\jquery.ui.all.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.433</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.autocomplete.css">
+      <PackagePath>css\ui-lightness\jquery.ui.autocomplete.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.449</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.base.css">
+      <PackagePath>css\ui-lightness\jquery.ui.base.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.465</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.button.css">
+      <PackagePath>css\ui-lightness\jquery.ui.button.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.480</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.core.css">
+      <PackagePath>css\ui-lightness\jquery.ui.core.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.497</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.datepicker.css">
+      <PackagePath>css\ui-lightness\jquery.ui.datepicker.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.513</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.dialog.css">
+      <PackagePath>css\ui-lightness\jquery.ui.dialog.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.544</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.progressbar.css">
+      <PackagePath>css\ui-lightness\jquery.ui.progressbar.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.558</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.resizable.css">
+      <PackagePath>css\ui-lightness\jquery.ui.resizable.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.574</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.selectable.css">
+      <PackagePath>css\ui-lightness\jquery.ui.selectable.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.605</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.slider.css">
+      <PackagePath>css\ui-lightness\jquery.ui.slider.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.605</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.tabs.css">
+      <PackagePath>css\ui-lightness\jquery.ui.tabs.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.621</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\css\ui-lightness\jquery.ui.theme.css">
+      <PackagePath>css\ui-lightness\jquery.ui.theme.css</PackagePath>
+      <Modified>2011-09-14T21:21:02.652</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-09-14T21:49:50.599</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2011-09-14T21:30:53.831</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\html\homePage.html">
+      <PackagePath>html\homePage.html</PackagePath>
+      <Modified>2011-09-14T21:31:16.406</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2011-09-14T21:15:45.879</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\homePage.js">
+      <PackagePath>js\homePage.js</PackagePath>
+      <Modified>2011-09-14T21:49:11.853</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\jquery-1.6.4.js">
+      <PackagePath>js\jquery-1.6.4.js</PackagePath>
+      <Modified>2011-09-14T21:44:55.791</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\jquery-1.6.4.min.js">
+      <PackagePath>js\jquery-1.6.4.min.js</PackagePath>
+      <Modified>2011-09-14T20:12:52.626</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\jquery-ui-1.8.16.min.js">
+      <PackagePath>js\jquery-ui-1.8.16.min.js</PackagePath>
+      <Modified>2011-09-14T20:15:39.310</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\jquery-ui.js">
+      <PackagePath>js\jquery-ui.js</PackagePath>
+      <Modified>2011-09-14T20:54:54.774</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\jquery.tmpl.min.js">
+      <PackagePath>js\jquery.tmpl.min.js</PackagePath>
+      <Modified>2011-09-14T20:28:57.963</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\js\todo.js">
+      <PackagePath>js\todo.js</PackagePath>
+      <Modified>2011-09-14T20:28:57.760</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\Css\ui-dark.css">
+      <PackagePath>winjs\Css\ui-dark.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\Css\ui-light.css">
+      <PackagePath>winjs\Css\ui-light.css</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\animations.js">
+      <PackagePath>winjs\js\animations.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\base.js">
+      <PackagePath>winjs\js\base.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\binding.js">
+      <PackagePath>winjs\js\binding.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\controls.js">
+      <PackagePath>winjs\js\controls.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\res.js">
+      <PackagePath>winjs\js\res.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\ui.js">
+      <PackagePath>winjs\js\ui.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\uicollections.js">
+      <PackagePath>winjs\js\uicollections.js</PackagePath>
+      <Modified>2011-08-22T09:28:50.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\ralph\Documents\Visual Studio 11\Projects\jQueryUIToDo\jQueryUIToDo\winjs\js\wwaapp.js">
+      <PackagePath>winjs\js\wwaapp.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>
